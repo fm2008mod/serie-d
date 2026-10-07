@@ -15,11 +15,11 @@ An original, unmodified fm.exe from Football Manager 2008, version 8.0.2 (Produc
 
 Steps
 
-Back up the original fm.exe in a separate folder.
-Copy apply_serieD_v14.py and the original fm.exe into one working folder, not into the game folder.
-Run this from the command line: python apply_serieD_v14.py fm.exe fm_serieD_v14.exe
-The script checks the expected bytes at every patch location and stops with a message if anything doesn't match (e.g. "expected … found …"). It never overwrites the input file, and the output file must have a different name.
-If it finishes without errors, fm_serieD_v14.exe will appear in the folder. Rename it to fm.exe and put it in the game folder in place of the original (after making the backup from step 1).
+a) Back up the original fm.exe in a separate folder.
+b) Copy apply_serieD_v14.py and the original fm.exe into one working folder, not into the game folder.
+c) Run this from the command line: python apply_serieD_v14.py fm.exe fm_serieD_v14.exe
+d) The script checks the expected bytes at every patch location and stops with a message if anything doesn't match (e.g. "expected … found …"). It never overwrites the input file, and the output file must have a different name.
+e) If it finishes without errors, fm_serieD_v14.exe will appear in the folder. Rename it to fm.exe and put it in the game folder in place of the original (after making the backup from step 1).
 Start a new game and choose Italy. Serie D should be visible in the competition tree, with groups A–I of 18 clubs each.
 
 
