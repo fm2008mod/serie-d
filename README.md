@@ -16,11 +16,16 @@ An original, unmodified fm.exe from Football Manager 2008, version 8.0.2 (Produc
 Steps
 
 a) Back up the original fm.exe in a separate folder.
+
 b) Copy apply_serieD_v14.py and the original fm.exe into one working folder, not into the game folder.
+
 c) Run this from the command line: python apply_serieD_v14.py fm.exe fm_serieD_v14.exe
+
 d) The script checks the expected bytes at every patch location and stops with a message if anything doesn't match (e.g. "expected … found …"). It never overwrites the input file, and the output file must have a different name.
+
 e) If it finishes without errors, fm_serieD_v14.exe will appear in the folder. Rename it to fm.exe and put it in the game folder in place of the original (after making the backup from step 1).
-Start a new game and choose Italy. Serie D should be visible in the competition tree, with groups A–I of 18 clubs each.
+
+f) Start a new game and choose Italy. Serie D should be visible in the competition tree, with groups A–I of 18 clubs each.
 
 
 Instrukcja: nakładanie modyfikacji Serie D na FM 2008
@@ -32,9 +37,9 @@ Oryginalny, niemodyfikowany fm.exe z Football Managera 2008 w wersji 8.0.2 (Prod
 
 Kroki
 
-Zrób kopię zapasową oryginalnego fm.exe w osobnym folderze.
-Skopiuj apply_serieD_v14.py i oryginalny fm.exe do jednego folderu roboczego, nie do folderu gry.
-Uruchom w wierszu poleceń: python apply_serieD_v14.py fm.exe fm_serieD_v14.exe
-Skrypt sprawdza oczekiwane bajty w każdym miejscu poprawki i przerywa z komunikatem, jeśli coś się nie zgadza (np. „oczekiwano … jest …”). Nie nadpisuje pliku wejściowego, a plik wyjściowy musi mieć inną nazwę.
-Jeśli skończy bez błędu, w folderze pojawi się fm_serieD_v14.exe. Zmień jego nazwę na fm.exe i wstaw do folderu gry w miejsce oryginału (po zrobieniu kopii z kroku 1).
-Zacznij nową grę i wybierz Włochy. Serie D powinna być widoczna w drzewie rozgrywek, z grupami A–I po 18 klubów.
+a) Zrób kopię zapasową oryginalnego fm.exe w osobnym folderze.
+b) Skopiuj apply_serieD_v14.py i oryginalny fm.exe do jednego folderu roboczego, nie do folderu gry.
+c) Uruchom w wierszu poleceń: python apply_serieD_v14.py fm.exe fm_serieD_v14.exe
+d) Skrypt sprawdza oczekiwane bajty w każdym miejscu poprawki i przerywa z komunikatem, jeśli coś się nie zgadza (np. „oczekiwano … jest …”). Nie nadpisuje pliku wejściowego, a plik wyjściowy musi mieć inną nazwę.
+e) Jeśli skończy bez błędu, w folderze pojawi się fm_serieD_v14.exe. Zmień jego nazwę na fm.exe i wstaw do folderu gry w miejsce oryginału (po zrobieniu kopii z kroku 1).
+f) Zacznij nową grę i wybierz Włochy. Serie D powinna być widoczna w drzewie rozgrywek, z grupami A–I po 18 klubów.
