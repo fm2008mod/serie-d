@@ -9,7 +9,6 @@ https://ko-fi.com/fm2008mod/
 
 # FM2008 Serie D Activation Patcher
 
-**Languages:** [English](README.md) · [Polski](README.pl.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
 A small Windows program that patches **Football Manager 2008** (`fm.exe`, version **8.0.2 / 8.0.2f117931**) so the Italian **Serie D** becomes playable.
 
@@ -49,7 +48,6 @@ A small Windows program that patches **Football Manager 2008** (`fm.exe`, versio
 
 # FM2008 Serie D Activation Patcher
 
-**Languages:** [English](README.md) · [Polski](README.pl.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
 Mały program dla Windows, który modyfikuje **Football Manager 2008** (`fm.exe`, wersja **8.0.2 / 8.0.2f117931**), aby włoska **Serie D** stała się grywalna.
 
@@ -89,7 +87,6 @@ Mały program dla Windows, który modyfikuje **Football Manager 2008** (`fm.exe`
 
 # FM2008 Serie D Activation Patcher
 
-**Languages:** [English](README.md) · [Polski](README.pl.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
 Un piccolo programma per Windows che modifica **Football Manager 2008** (`fm.exe`, versione **8.0.2 / 8.0.2f117931**) per rendere giocabile la **Serie D** italiana.
 
@@ -129,7 +126,6 @@ Un piccolo programma per Windows che modifica **Football Manager 2008** (`fm.exe
 
 # FM2008 Serie D Activation Patcher
 
-**Languages:** [English](README.md) · [Polski](README.pl.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
 Un pequeño programa para Windows que modifica **Football Manager 2008** (`fm.exe`, versión **8.0.2 / 8.0.2f117931**) para que la **Serie D** italiana sea jugable.
 
